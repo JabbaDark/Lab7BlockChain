@@ -1,0 +1,13 @@
+C:\Users\PichuginM\Downloads\Lab7BlockChain-master\BChain\bin\Debug\netcoreapp3.1\BChain.exe
+C:\Users\PichuginM\Downloads\Lab7BlockChain-master\BChain\bin\Debug\netcoreapp3.1\BChain.deps.json
+C:\Users\PichuginM\Downloads\Lab7BlockChain-master\BChain\bin\Debug\netcoreapp3.1\BChain.runtimeconfig.json
+C:\Users\PichuginM\Downloads\Lab7BlockChain-master\BChain\bin\Debug\netcoreapp3.1\BChain.runtimeconfig.dev.json
+C:\Users\PichuginM\Downloads\Lab7BlockChain-master\BChain\bin\Debug\netcoreapp3.1\BChain.dll
+C:\Users\PichuginM\Downloads\Lab7BlockChain-master\BChain\bin\Debug\netcoreapp3.1\BChain.pdb
+C:\Users\PichuginM\Downloads\Lab7BlockChain-master\BChain\obj\Debug\netcoreapp3.1\BChain.csprojAssemblyReference.cache
+C:\Users\PichuginM\Downloads\Lab7BlockChain-master\BChain\obj\Debug\netcoreapp3.1\BChain.AssemblyInfoInputs.cache
+C:\Users\PichuginM\Downloads\Lab7BlockChain-master\BChain\obj\Debug\netcoreapp3.1\BChain.AssemblyInfo.cs
+C:\Users\PichuginM\Downloads\Lab7BlockChain-master\BChain\obj\Debug\netcoreapp3.1\BChain.csproj.CoreCompileInputs.cache
+C:\Users\PichuginM\Downloads\Lab7BlockChain-master\BChain\obj\Debug\netcoreapp3.1\BChain.dll
+C:\Users\PichuginM\Downloads\Lab7BlockChain-master\BChain\obj\Debug\netcoreapp3.1\BChain.pdb
+C:\Users\PichuginM\Downloads\Lab7BlockChain-master\BChain\obj\Debug\netcoreapp3.1\BChain.genruntimeconfig.cache
